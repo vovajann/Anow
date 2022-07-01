@@ -254,7 +254,7 @@ transform: scale(0);
 
 .main-block {
 	position: relative;
-	background: url('__header-block/__main-bg.jpg') center/cover no-repeat;
+	background: url('main-bg.jpg') center/cover no-repeat;
 	background-attachment: fixed;
 }
 
